@@ -1,0 +1,5 @@
+C:\Projects\GodexPrinter\GodexPrinter\bin\Debug\GodexPrinter.dll
+C:\Projects\GodexPrinter\GodexPrinter\bin\Debug\GodexPrinter.pdb
+C:\Projects\GodexPrinter\GodexPrinter\obj\Debug\GodexPrinter.dll
+C:\Projects\GodexPrinter\GodexPrinter\obj\Debug\GodexPrinter.pdb
+C:\Projects\GodexPrinter\GodexPrinter\bin\Debug\GodexPrinter.tlb

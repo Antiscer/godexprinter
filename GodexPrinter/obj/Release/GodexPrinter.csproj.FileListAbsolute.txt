@@ -1,0 +1,5 @@
+C:\Projects\GodexPrinter\GodexPrinter\bin\Release\GodexPrinter.dll
+C:\Projects\GodexPrinter\GodexPrinter\bin\Release\GodexPrinter.pdb
+C:\Projects\GodexPrinter\GodexPrinter\obj\Release\GodexPrinter.csprojResolveAssemblyReference.cache
+C:\Projects\GodexPrinter\GodexPrinter\obj\Release\GodexPrinter.dll
+C:\Projects\GodexPrinter\GodexPrinter\obj\Release\GodexPrinter.pdb

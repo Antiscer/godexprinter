@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodexPrinter", "GodexPrinter\GodexPrinter.csproj", "{04E5BB47-B686-442D-AB5F-773F06DD42FE}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "GodexAddIn", "GodexAddIn\GodexAddIn.isproj", "{950E458D-CBAE-419D-9498-54117050C3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E5BB47-B686-442D-AB5F-773F06DD42FE}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{04E5BB47-B686-442D-AB5F-773F06DD42FE}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{04E5BB47-B686-442D-AB5F-773F06DD42FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E5BB47-B686-442D-AB5F-773F06DD42FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E5BB47-B686-442D-AB5F-773F06DD42FE}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E5BB47-B686-442D-AB5F-773F06DD42FE}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{04E5BB47-B686-442D-AB5F-773F06DD42FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E5BB47-B686-442D-AB5F-773F06DD42FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E5BB47-B686-442D-AB5F-773F06DD42FE}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{04E5BB47-B686-442D-AB5F-773F06DD42FE}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{950E458D-CBAE-419D-9498-54117050C3BB}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{950E458D-CBAE-419D-9498-54117050C3BB}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{950E458D-CBAE-419D-9498-54117050C3BB}.Debug|Any CPU.ActiveCfg = DVD-5
+		{950E458D-CBAE-419D-9498-54117050C3BB}.Debug|Any CPU.Build.0 = DVD-5
+		{950E458D-CBAE-419D-9498-54117050C3BB}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{950E458D-CBAE-419D-9498-54117050C3BB}.DVD-5|Any CPU.Build.0 = DVD-5
+		{950E458D-CBAE-419D-9498-54117050C3BB}.Release|Any CPU.ActiveCfg = SingleImage
+		{950E458D-CBAE-419D-9498-54117050C3BB}.Release|Any CPU.Build.0 = SingleImage
+		{950E458D-CBAE-419D-9498-54117050C3BB}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{950E458D-CBAE-419D-9498-54117050C3BB}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
